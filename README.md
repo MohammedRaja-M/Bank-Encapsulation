@@ -3,6 +3,8 @@
 package com.encap.bank;
 
 public class BankApplication {
+
+
 	private String Acc_Holder_Name = "MohamedRaja";
 	private double balance = 10000;
 	private long Ph_no = 9877645323l;
